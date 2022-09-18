@@ -1,3 +1,6 @@
+@media screen and (min-width: 400px) and (max-width: 846px) {
+  
+}
 .tropical{
     font-family:fantasy;
     color:#7dc410;
@@ -26,6 +29,7 @@ ol{
     border-width: 5pt;
     margin-top: 5pt;
     padding-bottom: 10pt;
+    list-style: none;
 }
 .imggallery{
     margin: 5px;
