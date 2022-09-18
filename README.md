@@ -15,4 +15,4 @@ This project shows destination listings
 https://carotheuri.github.io/happy-trails-travel-agency
 
 ## copyright and license information
-Copyright (c) {2022} **{Caroline Theuri}**
+Copyright (c) 2022 Caroline Theuri
